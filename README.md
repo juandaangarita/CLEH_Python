@@ -21,3 +21,5 @@ This are the commands used to configure a project:
 >pip install -r requirements.txt 
 9. To uninstall all the packages 
 >pip uninstall -r requirements.txt -y
+10. To create an alias
+>alias <nombre del alias>= comando
